@@ -12,7 +12,7 @@ Use a pasteur pipette to pour the PDMS inside the mould.
 
 Cure the PDMS at 65°C for 2h.
 
-After removing the PDMS from the mould we plasma bond it using air plasma with a coverslip.
+After removing the PDMS from the mould we plasma bond it with the coverslip.
 
 ![alt text](https://github.com/FrancisCrickInstitute/Embryo-micro-injection-chamber/blob/main/Microinjection%20figure.png?raw=true)
 
